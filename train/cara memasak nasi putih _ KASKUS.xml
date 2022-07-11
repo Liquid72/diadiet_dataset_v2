@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>cara memasak nasi putih _ KASKUS.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\cara memasak nasi putih _ KASKUS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>55</ymin>
+			<xmax>516</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

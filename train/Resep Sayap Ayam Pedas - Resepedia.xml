@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Resep Sayap Ayam Pedas - Resepedia.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Resep Sayap Ayam Pedas - Resepedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>219</ymin>
+			<xmax>453</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>39</ymin>
+			<xmax>502</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

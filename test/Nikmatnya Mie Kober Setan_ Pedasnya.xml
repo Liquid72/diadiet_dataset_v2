@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Nikmatnya Mie Kober Setan_ Pedasnya.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Nikmatnya Mie Kober Setan_ Pedasnya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>43</ymin>
+			<xmax>630</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Resep Mie Goreng Muslim Khas Malaysia.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Resep Mie Goreng Muslim Khas Malaysia.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>199</ymin>
+			<xmax>1108</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

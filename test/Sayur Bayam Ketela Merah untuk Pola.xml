@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Sayur Bayam Ketela Merah untuk Pola.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Sayur Bayam Ketela Merah untuk Pola.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>50</ymin>
+			<xmax>425</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

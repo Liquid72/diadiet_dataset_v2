@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>7 Manfaat Beras Merah untuk Bayi yang.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\7 Manfaat Beras Merah untuk Bayi yang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>891</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>6</ymin>
+			<xmax>770</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Buah Melon Kaya Kandungan Gizi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Buah Melon Kaya Kandungan Gizi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>798</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>170</ymin>
+			<xmax>484</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

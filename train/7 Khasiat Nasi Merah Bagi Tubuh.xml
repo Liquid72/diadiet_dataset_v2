@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>7 Khasiat Nasi Merah Bagi Tubuh.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\7 Khasiat Nasi Merah Bagi Tubuh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>33</ymin>
+			<xmax>1868</xmax>
+			<ymax>1271</ymax>
+		</bndbox>
+	</object>
+</annotation>

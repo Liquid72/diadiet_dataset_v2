@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Diet Telur Rebus_ Apakah Kuning Telur.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Diet Telur Rebus_ Apakah Kuning Telur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>537</ymin>
+			<xmax>1291</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>267</ymin>
+			<xmax>930</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+</annotation>

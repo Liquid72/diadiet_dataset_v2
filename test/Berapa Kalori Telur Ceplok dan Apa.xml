@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Berapa Kalori Telur Ceplok dan Apa.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Berapa Kalori Telur Ceplok dan Apa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>174</ymin>
+			<xmax>588</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>47</ymin>
+			<xmax>277</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

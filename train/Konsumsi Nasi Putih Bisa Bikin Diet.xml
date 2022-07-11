@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Konsumsi Nasi Putih Bisa Bikin Diet.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Konsumsi Nasi Putih Bisa Bikin Diet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>148</ymin>
+			<xmax>487</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

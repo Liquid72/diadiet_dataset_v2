@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Resep Mie Gacoan_ Makanan Pedas Favorit.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Resep Mie Gacoan_ Makanan Pedas Favorit.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>567</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>102</ymin>
+			<xmax>721</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

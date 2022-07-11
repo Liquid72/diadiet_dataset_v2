@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Ketahui Jumlah Kalor Telor Ceplok dan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Ketahui Jumlah Kalor Telor Ceplok dan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>34</ymin>
+			<xmax>378</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

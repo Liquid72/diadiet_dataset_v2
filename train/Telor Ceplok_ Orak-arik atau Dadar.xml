@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Telor Ceplok_ Orak-arik atau Dadar.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Telor Ceplok_ Orak-arik atau Dadar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>25</ymin>
+			<xmax>521</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

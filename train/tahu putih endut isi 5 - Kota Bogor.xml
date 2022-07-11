@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>tahu putih endut isi 5 - Kota Bogor.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Tahu\tahu putih endut isi 5 - Kota Bogor.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>60</ymin>
+			<xmax>441</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>286</ymin>
+			<xmax>527</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>270</ymin>
+			<xmax>335</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

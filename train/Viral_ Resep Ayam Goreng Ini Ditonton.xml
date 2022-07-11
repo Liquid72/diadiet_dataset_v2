@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Viral_ Resep Ayam Goreng Ini Ditonton.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Viral_ Resep Ayam Goreng Ini Ditonton.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>215</ymin>
+			<xmax>252</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>266</ymin>
+			<xmax>467</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

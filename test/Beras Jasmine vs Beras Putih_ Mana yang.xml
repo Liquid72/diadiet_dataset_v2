@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Beras Jasmine vs Beras Putih_ Mana yang.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Beras Jasmine vs Beras Putih_ Mana yang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>891</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>121</ymin>
+			<xmax>806</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

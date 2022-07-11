@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Mudah Pangkas Kalori pada Nasi Putih.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Mudah Pangkas Kalori pada Nasi Putih.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>133</ymin>
+			<xmax>1030</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

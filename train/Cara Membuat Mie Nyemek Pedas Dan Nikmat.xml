@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Cara Membuat Mie Nyemek Pedas Dan Nikmat.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Cara Membuat Mie Nyemek Pedas Dan Nikmat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>124</ymin>
+			<xmax>502</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

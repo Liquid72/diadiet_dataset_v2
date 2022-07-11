@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Makan Telur Rebus.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Makan Telur Rebus.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>42</ymin>
+			<xmax>331</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>28</ymin>
+			<xmax>190</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

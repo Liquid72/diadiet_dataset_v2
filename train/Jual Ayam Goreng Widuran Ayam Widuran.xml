@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Jual Ayam Goreng Widuran Ayam Widuran.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Jual Ayam Goreng Widuran Ayam Widuran.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>347</ymin>
+			<xmax>811</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>92</ymin>
+			<xmax>866</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

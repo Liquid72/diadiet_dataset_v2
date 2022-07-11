@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>5 Resep Mie Burung Dara Goreng_ Menu.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\5 Resep Mie Burung Dara Goreng_ Menu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>72</ymin>
+			<xmax>788</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

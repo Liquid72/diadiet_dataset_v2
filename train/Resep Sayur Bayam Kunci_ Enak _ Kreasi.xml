@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Resep Sayur Bayam Kunci_ Enak _ Kreasi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Resep Sayur Bayam Kunci_ Enak _ Kreasi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>84</ymin>
+			<xmax>686</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

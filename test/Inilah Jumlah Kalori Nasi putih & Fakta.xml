@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Inilah Jumlah Kalori Nasi putih &amp; Fakta.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Inilah Jumlah Kalori Nasi putih &amp; Fakta.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1110</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>54</ymin>
+			<xmax>847</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

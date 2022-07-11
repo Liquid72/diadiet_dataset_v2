@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Semangka Merah VS Semangka Kuning_ Mana.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Semangka Merah VS Semangka Kuning_ Mana.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>121</ymin>
+			<xmax>495</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>56</ymin>
+			<xmax>297</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>27</ymin>
+			<xmax>475</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

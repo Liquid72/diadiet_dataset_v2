@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Mie Ayam Pak Kardi Semarang_ Porsi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Mie Ayam Pak Kardi Semarang_ Porsi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>74</ymin>
+			<xmax>668</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

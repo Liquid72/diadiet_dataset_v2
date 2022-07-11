@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>GREEN CHARENTAIS MELON - Les Domaines.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\GREEN CHARENTAIS MELON - Les Domaines.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>235</ymin>
+			<xmax>580</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

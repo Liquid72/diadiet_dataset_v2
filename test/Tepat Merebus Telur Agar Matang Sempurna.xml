@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Tepat Merebus Telur Agar Matang Sempurna.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Tepat Merebus Telur Agar Matang Sempurna.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>145</ymin>
+			<xmax>479</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>12</ymin>
+			<xmax>612</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

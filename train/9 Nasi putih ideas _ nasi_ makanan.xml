@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>9 Nasi putih ideas _ nasi_ makanan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\9 Nasi putih ideas _ nasi_ makanan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1040</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>376</ymin>
+			<xmax>846</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>4 Cara Membuat Mie Ayam untuk Berbuka.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\4 Cara Membuat Mie Ayam untuk Berbuka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>25</ymin>
+			<xmax>368</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

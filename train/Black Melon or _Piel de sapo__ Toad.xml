@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Black Melon or _Piel de sapo__ Toad.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Black Melon or _Piel de sapo__ Toad.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>385</ymin>
+			<xmax>491</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

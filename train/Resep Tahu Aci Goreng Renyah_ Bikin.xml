@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>Resep Tahu Aci Goreng Renyah_ Bikin.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Tahu\Resep Tahu Aci Goreng Renyah_ Bikin.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>243</ymin>
+			<xmax>627</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>117</ymin>
+			<xmax>495</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Resep Masakan Sayur Bayam Menu Makan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Resep Masakan Sayur Bayam Menu Makan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>30</ymin>
+			<xmax>684</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

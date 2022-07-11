@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Kurangi Makan Nasi Putih Tak Cegah.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Kurangi Makan Nasi Putih Tak Cegah.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>48</ymin>
+			<xmax>443</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>Resep Hidangan Utama - Tahu Gurih.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Tahu\Resep Hidangan Utama - Tahu Gurih.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>954</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>163</ymin>
+			<xmax>723</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>20</ymin>
+			<xmax>534</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>35</ymin>
+			<xmax>907</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

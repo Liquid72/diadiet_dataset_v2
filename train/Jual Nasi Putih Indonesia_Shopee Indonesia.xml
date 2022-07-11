@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Jual Nasi Putih Indonesia_Shopee Indonesia.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Jual Nasi Putih Indonesia_Shopee Indonesia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>707</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>174</ymin>
+			<xmax>602</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Melon untuk Ibu Hamil dan Perkembangan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Melon untuk Ibu Hamil dan Perkembangan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>248</ymin>
+			<xmax>745</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>141</ymin>
+			<xmax>559</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

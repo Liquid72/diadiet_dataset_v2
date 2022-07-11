@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Ternyata Kalori Mie Ayam Setara Dengan.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Ternyata Kalori Mie Ayam Setara Dengan.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>78</ymin>
+			<xmax>523</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

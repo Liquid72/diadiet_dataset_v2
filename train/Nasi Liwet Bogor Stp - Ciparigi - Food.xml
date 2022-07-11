@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Nasi Liwet Bogor Stp - Ciparigi - Food.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Nasi Liwet Bogor Stp - Ciparigi - Food.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>64</ymin>
+			<xmax>249</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

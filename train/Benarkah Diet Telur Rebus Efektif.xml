@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Benarkah Diet Telur Rebus Efektif.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Benarkah Diet Telur Rebus Efektif.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>282</ymin>
+			<xmax>563</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>134</ymin>
+			<xmax>654</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>77</ymin>
+			<xmax>536</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

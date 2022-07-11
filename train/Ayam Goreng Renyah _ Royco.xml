@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Ayam Goreng Renyah _ Royco.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Ayam Goreng Renyah _ Royco.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>444</ymin>
+			<xmax>1176</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>978</xmin>
+			<ymin>705</ymin>
+			<xmax>1360</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymin>383</ymin>
+			<xmax>1638</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>

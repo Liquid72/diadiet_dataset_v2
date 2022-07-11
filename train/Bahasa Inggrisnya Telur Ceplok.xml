@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Bahasa Inggrisnya Telur Ceplok.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Bahasa Inggrisnya Telur Ceplok.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1223</width>
+		<height>977</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>124</ymin>
+			<xmax>934</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

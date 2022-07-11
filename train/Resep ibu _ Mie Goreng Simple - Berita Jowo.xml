@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Resep ibu _ Mie Goreng Simple - Berita Jowo.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Resep ibu _ Mie Goreng Simple - Berita Jowo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>116</ymin>
+			<xmax>971</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+</annotation>

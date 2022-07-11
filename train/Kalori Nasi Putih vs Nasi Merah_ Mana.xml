@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Kalori Nasi Putih vs Nasi Merah_ Mana.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Kalori Nasi Putih vs Nasi Merah_ Mana.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>44</ymin>
+			<xmax>577</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Resep Sayur Bayam Bening Campur Jagung.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Resep Sayur Bayam Bening Campur Jagung.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>3</ymin>
+			<xmax>1179</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

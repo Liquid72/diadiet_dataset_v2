@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>4 Variasi Membuat Telur Dadar Yang Unik.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\4 Variasi Membuat Telur Dadar Yang Unik.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>87</ymin>
+			<xmax>766</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

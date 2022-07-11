@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Nasi Putih Photos - Free &amp; Royalty-Free.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Nasi Putih Photos - Free &amp; Royalty-Free.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>153</ymin>
+			<xmax>1600</xmax>
+			<ymax>1424</ymax>
+		</bndbox>
+	</object>
+</annotation>

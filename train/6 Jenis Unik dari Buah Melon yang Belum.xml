@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>6 Jenis Unik dari Buah Melon yang Belum.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\6 Jenis Unik dari Buah Melon yang Belum.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>170</ymin>
+			<xmax>261</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

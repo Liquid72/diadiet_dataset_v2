@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Melon _ Tanaman _ Plantix.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Melon _ Tanaman _ Plantix.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>173</ymin>
+			<xmax>543</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>71</ymin>
+			<xmax>214</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

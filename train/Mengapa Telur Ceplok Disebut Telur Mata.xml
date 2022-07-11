@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Mengapa Telur Ceplok Disebut Telur Mata.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Mengapa Telur Ceplok Disebut Telur Mata.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>29</ymin>
+			<xmax>662</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep Nasi Goreng Telur Ceplok_ Enak.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep Nasi Goreng Telur Ceplok_ Enak.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>10</ymin>
+			<xmax>582</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

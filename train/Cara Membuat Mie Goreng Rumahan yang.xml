@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Cara Membuat Mie Goreng Rumahan yang.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Cara Membuat Mie Goreng Rumahan yang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>72</ymin>
+			<xmax>545</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

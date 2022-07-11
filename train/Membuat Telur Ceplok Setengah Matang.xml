@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Membuat Telur Ceplok Setengah Matang.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Membuat Telur Ceplok Setengah Matang.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>57</ymin>
+			<xmax>575</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>59</ymin>
+			<xmax>321</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

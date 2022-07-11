@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Cara Sehat Makan Nasi Putih - Health.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Cara Sehat Makan Nasi Putih - Health.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>79</ymin>
+			<xmax>481</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

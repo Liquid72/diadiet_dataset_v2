@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Manfaat Mengonsumsi Semangka.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Manfaat Mengonsumsi Semangka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>254</ymin>
+			<xmax>561</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

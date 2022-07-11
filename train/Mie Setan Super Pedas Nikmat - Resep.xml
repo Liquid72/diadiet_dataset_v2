@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Mie Setan Super Pedas Nikmat - Resep.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Mie Setan Super Pedas Nikmat - Resep.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1079</width>
+		<height>1214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>434</ymin>
+			<xmax>1068</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Jadi Obat Kuat Hingga Masker Wajah.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Jadi Obat Kuat Hingga Masker Wajah.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>70</ymin>
+			<xmax>341</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>50</ymin>
+			<xmax>277</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

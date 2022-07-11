@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Inilah 5 Manfaat Buah Semangka_ Harus.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Inilah 5 Manfaat Buah Semangka_ Harus.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>174</ymin>
+			<xmax>449</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>117</ymin>
+			<xmax>319</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>140</ymin>
+			<xmax>530</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

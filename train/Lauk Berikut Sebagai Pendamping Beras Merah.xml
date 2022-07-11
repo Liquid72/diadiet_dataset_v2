@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Lauk Berikut Sebagai Pendamping Beras Merah.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Lauk Berikut Sebagai Pendamping Beras Merah.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>845</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>389</ymin>
+			<xmax>307</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

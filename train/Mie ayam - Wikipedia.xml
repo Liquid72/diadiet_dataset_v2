@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Mie ayam - Wikipedia.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Mie ayam - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2848</width>
+		<height>2136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>350</ymin>
+			<xmax>2468</xmax>
+			<ymax>1929</ymax>
+		</bndbox>
+	</object>
+</annotation>

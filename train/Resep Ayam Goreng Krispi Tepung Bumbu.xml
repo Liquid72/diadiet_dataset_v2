@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Resep Ayam Goreng Krispi Tepung Bumbu.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Resep Ayam Goreng Krispi Tepung Bumbu.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>199</ymin>
+			<xmax>390</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>221</ymin>
+			<xmax>472</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>105</ymin>
+			<xmax>379</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

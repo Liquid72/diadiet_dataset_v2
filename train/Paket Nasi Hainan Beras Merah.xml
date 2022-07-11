@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Paket Nasi Hainan Beras Merah.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Paket Nasi Hainan Beras Merah.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>145</ymin>
+			<xmax>574</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

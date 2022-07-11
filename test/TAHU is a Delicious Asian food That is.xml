@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>TAHU is a Delicious Asian food That is.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Tahu\TAHU is a Delicious Asian food That is.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1220</width>
+		<height>857</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>281</ymin>
+			<xmax>1029</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>240</ymin>
+			<xmax>677</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

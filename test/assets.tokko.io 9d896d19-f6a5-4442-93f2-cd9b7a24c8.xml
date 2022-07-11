@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>assets.tokko.io 9d896d19-f6a5-4442-93f2-cd9b7a24c8.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\assets.tokko.io 9d896d19-f6a5-4442-93f2-cd9b7a24c8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>47</ymin>
+			<xmax>791</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

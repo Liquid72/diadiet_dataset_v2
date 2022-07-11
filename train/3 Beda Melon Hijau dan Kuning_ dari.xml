@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>3 Beda Melon Hijau dan Kuning_ dari.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\3 Beda Melon Hijau dan Kuning_ dari.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>246</ymin>
+			<xmax>649</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep Telur Ceplok Saus Tiram_ Menu.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep Telur Ceplok Saus Tiram_ Menu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>16</ymin>
+			<xmax>581</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

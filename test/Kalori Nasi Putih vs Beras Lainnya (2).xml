@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Kalori Nasi Putih vs Beras Lainnya (2).jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Kalori Nasi Putih vs Beras Lainnya (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>12</ymin>
+			<xmax>765</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

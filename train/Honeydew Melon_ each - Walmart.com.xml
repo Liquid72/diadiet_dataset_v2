@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Honeydew Melon_ each - Walmart.com.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Honeydew Melon_ each - Walmart.com.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>1511</ymin>
+			<xmax>2942</xmax>
+			<ymax>2687</ymax>
+		</bndbox>
+	</object>
+</annotation>

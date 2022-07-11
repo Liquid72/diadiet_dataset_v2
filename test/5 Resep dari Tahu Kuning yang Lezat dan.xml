@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tahu</folder>
+	<filename>5 Resep dari Tahu Kuning yang Lezat dan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Tahu\5 Resep dari Tahu Kuning yang Lezat dan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>144</ymin>
+			<xmax>678</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>212</ymin>
+			<xmax>564</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

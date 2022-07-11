@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>4 Manfaat Biji Semangka untuk Kesehatan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\4 Manfaat Biji Semangka untuk Kesehatan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>217</ymin>
+			<xmax>524</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

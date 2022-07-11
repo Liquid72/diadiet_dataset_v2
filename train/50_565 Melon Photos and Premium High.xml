@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>50_565 Melon Photos and Premium High.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\50_565 Melon Photos and Premium High.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>26</ymin>
+			<xmax>565</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>32</ymin>
+			<xmax>389</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>53</ymin>
+			<xmax>232</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

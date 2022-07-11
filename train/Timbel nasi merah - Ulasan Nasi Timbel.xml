@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Timbel nasi merah - Ulasan Nasi Timbel.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Timbel nasi merah - Ulasan Nasi Timbel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>198</ymin>
+			<xmax>457</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

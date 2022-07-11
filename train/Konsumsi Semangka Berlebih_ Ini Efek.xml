@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Konsumsi Semangka Berlebih_ Ini Efek.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Konsumsi Semangka Berlebih_ Ini Efek.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>77</ymin>
+			<xmax>583</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>59</ymin>
+			<xmax>207</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>85</ymin>
+			<xmax>748</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

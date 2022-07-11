@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Pihak Mie Sedaap Bilang Begini soal.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Pihak Mie Sedaap Bilang Begini soal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>65</ymin>
+			<xmax>440</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

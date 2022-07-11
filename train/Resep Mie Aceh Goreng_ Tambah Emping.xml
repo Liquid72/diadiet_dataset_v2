@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Resep Mie Aceh Goreng_ Tambah Emping.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Resep Mie Aceh Goreng_ Tambah Emping.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>173</ymin>
+			<xmax>655</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Resep Viral Mie Setan dan Mie Angel ala.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Resep Viral Mie Setan dan Mie Angel ala.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>220</ymin>
+			<xmax>423</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>263</ymin>
+			<xmax>897</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Ayam Goreng Kalasan _ Tastemade.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Ayam Goreng Kalasan _ Tastemade.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>136</ymin>
+			<xmax>1108</xmax>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+</annotation>

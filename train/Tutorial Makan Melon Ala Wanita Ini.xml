@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Tutorial Makan Melon Ala Wanita Ini.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Tutorial Makan Melon Ala Wanita Ini.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>377</ymin>
+			<xmax>1127</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>285</ymin>
+			<xmax>1169</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>185</ymin>
+			<xmax>1200</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

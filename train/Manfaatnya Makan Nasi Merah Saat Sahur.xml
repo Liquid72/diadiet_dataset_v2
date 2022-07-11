@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Manfaatnya Makan Nasi Merah Saat Sahur.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Manfaatnya Makan Nasi Merah Saat Sahur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1510</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>359</ymin>
+			<xmax>1157</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+</annotation>

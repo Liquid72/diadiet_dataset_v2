@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Ayam Karang Menanci a la RM Panderasa.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Ayam Karang Menanci a la RM Panderasa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>263</ymin>
+			<xmax>810</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>565</ymin>
+			<xmax>802</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+</annotation>

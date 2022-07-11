@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Jual Produk Benih Buah Melon Putih.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Jual Produk Benih Buah Melon Putih.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>571</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>368</ymin>
+			<xmax>508</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

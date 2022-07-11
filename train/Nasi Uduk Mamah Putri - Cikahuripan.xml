@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Nasi Uduk Mamah Putri - Cikahuripan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Nasi Uduk Mamah Putri - Cikahuripan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>150</ymin>
+			<xmax>235</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>47</ymin>
+			<xmax>389</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>14</ymin>
+			<xmax>254</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

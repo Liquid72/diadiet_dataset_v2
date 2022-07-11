@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Musk melon or kharbuja_ Why you must.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Musk melon or kharbuja_ Why you must.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>315</ymin>
+			<xmax>1053</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>

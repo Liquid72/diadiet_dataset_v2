@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Membuat Telur Dadar Abon Sapi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Membuat Telur Dadar Abon Sapi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>76</ymin>
+			<xmax>680</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

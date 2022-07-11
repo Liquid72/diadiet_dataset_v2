@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>20 Resep mie goreng spesial_ enak_ dan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\20 Resep mie goreng spesial_ enak_ dan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>105</ymin>
+			<xmax>640</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

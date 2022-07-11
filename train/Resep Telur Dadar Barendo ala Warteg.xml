@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep Telur Dadar Barendo ala Warteg.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep Telur Dadar Barendo ala Warteg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>26</ymin>
+			<xmax>524</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

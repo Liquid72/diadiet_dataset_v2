@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Supaya Telur Ceplok Tidak Lengket.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Supaya Telur Ceplok Tidak Lengket.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>18</ymin>
+			<xmax>344</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

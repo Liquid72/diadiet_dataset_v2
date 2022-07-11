@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Indonesian Fried Chicken - Ayam Goreng.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Indonesian Fried Chicken - Ayam Goreng.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>170</ymin>
+			<xmax>568</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>445</ymin>
+			<xmax>379</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+</annotation>

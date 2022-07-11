@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>kandungan gizi Telur goreng_ telur ceplok.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\kandungan gizi Telur goreng_ telur ceplok.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>29</ymin>
+			<xmax>371</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>124</ymin>
+			<xmax>500</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Tentang Nasi Putih_ Benarkah Mitos.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Tentang Nasi Putih_ Benarkah Mitos.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>152</ymin>
+			<xmax>493</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

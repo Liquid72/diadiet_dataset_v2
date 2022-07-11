@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Cara Menurunkan Berat Badan_ Pilih Nasi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Cara Menurunkan Berat Badan_ Pilih Nasi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>45</ymin>
+			<xmax>277</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

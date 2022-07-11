@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>10 Ayam Goreng Semarang Paling Enak dan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\10 Ayam Goreng Semarang Paling Enak dan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>585</width>
+		<height>442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>48</ymin>
+			<xmax>578</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

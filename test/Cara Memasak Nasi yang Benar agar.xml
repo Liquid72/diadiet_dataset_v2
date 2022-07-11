@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Cara Memasak Nasi yang Benar agar.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Cara Memasak Nasi yang Benar agar.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>4</ymin>
+			<xmax>310</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

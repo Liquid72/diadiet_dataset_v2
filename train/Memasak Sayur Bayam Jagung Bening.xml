@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Memasak Sayur Bayam Jagung Bening.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Memasak Sayur Bayam Jagung Bening.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>519</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

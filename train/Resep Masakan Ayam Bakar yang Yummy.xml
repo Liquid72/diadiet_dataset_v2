@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Resep Masakan Ayam Bakar yang Yummy.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Resep Masakan Ayam Bakar yang Yummy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>149</ymin>
+			<xmax>751</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+</annotation>

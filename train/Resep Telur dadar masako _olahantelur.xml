@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep Telur dadar masako _olahantelur.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep Telur dadar masako _olahantelur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>27</ymin>
+			<xmax>343</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

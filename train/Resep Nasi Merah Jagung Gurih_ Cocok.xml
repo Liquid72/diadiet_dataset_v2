@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Resep Nasi Merah Jagung Gurih_ Cocok.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Resep Nasi Merah Jagung Gurih_ Cocok.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>4</ymin>
+			<xmax>800</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

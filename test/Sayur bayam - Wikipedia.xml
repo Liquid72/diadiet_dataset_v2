@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Sayur bayam - Wikipedia.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Sayur bayam - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3223</width>
+		<height>2267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>359</ymin>
+			<xmax>2883</xmax>
+			<ymax>1757</ymax>
+		</bndbox>
+	</object>
+</annotation>

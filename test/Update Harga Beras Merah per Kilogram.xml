@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiMerah</folder>
+	<filename>Update Harga Beras Merah per Kilogram.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiMerah\Update Harga Beras Merah per Kilogram.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>34</ymin>
+			<xmax>500</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

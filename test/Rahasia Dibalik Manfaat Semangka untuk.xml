@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Semangka</folder>
+	<filename>Rahasia Dibalik Manfaat Semangka untuk.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Semangka\Rahasia Dibalik Manfaat Semangka untuk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Semangka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>236</ymin>
+			<xmax>508</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

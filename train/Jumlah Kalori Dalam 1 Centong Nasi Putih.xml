@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Jumlah Kalori Dalam 1 Centong Nasi Putih.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Jumlah Kalori Dalam 1 Centong Nasi Putih.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>822</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>65</ymin>
+			<xmax>619</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

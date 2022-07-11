@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Overview - Melon.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Overview - Melon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>436</ymin>
+			<xmax>1203</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

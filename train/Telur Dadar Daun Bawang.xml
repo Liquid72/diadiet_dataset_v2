@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Telur Dadar Daun Bawang.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Telur Dadar Daun Bawang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>12</ymin>
+			<xmax>856</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

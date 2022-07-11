@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Mie Goreng Ayam Panggang _ Maggi.png</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Mie Goreng Ayam Panggang _ Maggi.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>41</ymin>
+			<xmax>559</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

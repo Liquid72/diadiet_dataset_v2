@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Jurus Memasak Telur Mata Sapi Sempurna.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Jurus Memasak Telur Mata Sapi Sempurna.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>830</width>
+		<height>556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>42</ymin>
+			<xmax>749</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

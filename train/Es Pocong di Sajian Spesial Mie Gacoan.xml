@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Es Pocong di Sajian Spesial Mie Gacoan.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Es Pocong di Sajian Spesial Mie Gacoan.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>50</ymin>
+			<xmax>359</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

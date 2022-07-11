@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Masyarakat Se-Indonesia Tertipu.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Masyarakat Se-Indonesia Tertipu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>48</ymin>
+			<xmax>209</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

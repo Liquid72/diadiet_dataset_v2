@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>51 Resep Ayam Terpopuler yang Super.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\51 Resep Ayam Terpopuler yang Super.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>152</ymin>
+			<xmax>169</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>135</ymin>
+			<xmax>126</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>138</ymin>
+			<xmax>248</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

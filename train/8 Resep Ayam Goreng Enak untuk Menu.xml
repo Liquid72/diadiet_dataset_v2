@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>8 Resep Ayam Goreng Enak untuk Menu.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\8 Resep Ayam Goreng Enak untuk Menu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>98</ymin>
+			<xmax>607</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>44</ymin>
+			<xmax>290</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>19</ymin>
+			<xmax>520</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

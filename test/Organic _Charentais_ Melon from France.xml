@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Organic _Charentais_ Melon from France.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Organic _Charentais_ Melon from France.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>207</ymin>
+			<xmax>549</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>260</ymin>
+			<xmax>347</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

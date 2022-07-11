@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep TELUR REBUS apa Rebus Telur hanya.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep TELUR REBUS apa Rebus Telur hanya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>224</ymin>
+			<xmax>602</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>315</ymin>
+			<xmax>458</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

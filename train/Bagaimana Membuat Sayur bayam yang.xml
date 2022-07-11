@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>Bagaimana Membuat Sayur bayam yang.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\Bagaimana Membuat Sayur bayam yang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>85</ymin>
+			<xmax>619</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

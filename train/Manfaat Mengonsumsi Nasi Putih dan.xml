@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NasiPutih</folder>
+	<filename>Manfaat Mengonsumsi Nasi Putih dan.jpeg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\NasiPutih\Manfaat Mengonsumsi Nasi Putih dan.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>66</ymin>
+			<xmax>384</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Resep Telur Dadar Wangi yang Bisa.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Resep Telur Dadar Wangi yang Bisa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>68</ymin>
+			<xmax>762</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

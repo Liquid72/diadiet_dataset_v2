@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ayam</folder>
+	<filename>Ayam Goreng Kremes nasi_tahu tempe.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Ayam\Ayam Goreng Kremes nasi_tahu tempe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>87</ymin>
+			<xmax>361</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

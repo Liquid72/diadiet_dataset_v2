@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>membuat mie instan agar lebih bergizi.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\membuat mie instan agar lebih bergizi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>66</ymin>
+			<xmax>273</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

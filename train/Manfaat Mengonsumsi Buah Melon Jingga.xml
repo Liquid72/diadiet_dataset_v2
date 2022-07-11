@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Manfaat Mengonsumsi Buah Melon Jingga.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Manfaat Mengonsumsi Buah Melon Jingga.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>284</ymin>
+			<xmax>602</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>292</ymin>
+			<xmax>431</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

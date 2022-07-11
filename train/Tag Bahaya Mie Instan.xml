@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Tag Bahaya Mie Instan.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Tag Bahaya Mie Instan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>265</ymin>
+			<xmax>1050</xmax>
+			<ymax>1152</ymax>
+		</bndbox>
+	</object>
+</annotation>

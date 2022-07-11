@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mie</folder>
+	<filename>Mie Soba dari Negeri Sakura_ Sehat atau.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Mie\Mie Soba dari Negeri Sakura_ Sehat atau.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>606</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>113</ymin>
+			<xmax>910</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

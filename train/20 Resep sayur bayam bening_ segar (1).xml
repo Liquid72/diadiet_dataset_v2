@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SayurBayam</folder>
+	<filename>20 Resep sayur bayam bening_ segar (1).jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\SayurBayam\20 Resep sayur bayam bening_ segar (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sayur Bayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>77</ymin>
+			<xmax>447</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>8 Manfaat Buah Melon_ Benar Baik untuk.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\8 Manfaat Buah Melon_ Benar Baik untuk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>769</ymin>
+			<xmax>1510</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

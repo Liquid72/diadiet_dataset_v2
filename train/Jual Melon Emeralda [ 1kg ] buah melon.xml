@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Melon</folder>
+	<filename>Jual Melon Emeralda [ 1kg ] buah melon.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Melon\Jual Melon Emeralda [ 1kg ] buah melon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>696</ymin>
+			<xmax>827</xmax>
+			<ymax>959</ymax>
+		</bndbox>
+	</object>
+</annotation>

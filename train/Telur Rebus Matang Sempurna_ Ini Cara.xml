@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Telur</folder>
+	<filename>Telur Rebus Matang Sempurna_ Ini Cara.jpg</filename>
+	<path>C:\project\IntelAI\diadiet\Dataset\Telur\Telur Rebus Matang Sempurna_ Ini Cara.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>59</ymin>
+			<xmax>469</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>
